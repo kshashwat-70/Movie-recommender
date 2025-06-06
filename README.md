@@ -108,4 +108,10 @@ This project uses the following Python libraries:
 
 ---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share it with attribution.
+
+
 
