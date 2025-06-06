@@ -5,7 +5,7 @@ import pickle
 import streamlit as st
 import requests
 
-st.set_page_config(layout="wide", page_title="Movie Recommender")
+st.set_page_config(layout="wide", page_title="Movie Recommender")            
 
 # --- Your OMDb API key here ---
 OMDB_API_KEY = "fa422d9b"
@@ -53,7 +53,7 @@ def recommend(movie):
     return recommended_titles, recommended_posters
 
 # Streamlit UI setup
-st.set_page_config(layout="wide", page_title="Movie Recommender")
+
 
 st.title("🎬 Movie Recommender System")
 
