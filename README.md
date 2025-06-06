@@ -90,6 +90,17 @@ This project uses the following Python libraries:
   Movies are displayed in a 5-column grid with clickable buttons. Clicking a recommended movie will show further recommendations related to it, allowing recursive discovery.
 
 ---
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home Page](images/movie-ui1.png)
+
+### 🎬 Recommendations Page
+![Recommendations](images/movie_ui2.png)
+
+### 🎥 Movie Details Page
+![Details](images/movie-ui3.png)
+
 
 ## 📝 Notes
 
